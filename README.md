@@ -8,6 +8,9 @@ Makefile also might be coming. Or it might not, will see.
 To run first compile the code and then run the compiled file. 
 
 ```shell
-> rustc src/main.rs
-> ./main
+rustc src/main.rs
+```
+
+```shell
+./main
 ```
